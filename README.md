@@ -64,9 +64,7 @@
    
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## :trophy: Git profile Trophies
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moxeed&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 #
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moxeed&label=Profile%20views&color=0e75b6&style=flat" alt="moxeed" /> </p>
